@@ -1,4 +1,2 @@
 User-agent: *
-Disallow: /notes.txt
-Disallow: /css.css
-Disallow: /js.js
+Disallow: /x/*
