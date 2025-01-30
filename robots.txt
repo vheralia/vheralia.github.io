@@ -1,5 +1,4 @@
 User-agent: *
-Disallow: /favicon.ico
 Disallow: /notes.txt
 Disallow: /css.css
 Disallow: /js.js
